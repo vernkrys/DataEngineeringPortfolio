@@ -11,5 +11,5 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 4. [Real-Time Event Streaming](./RealTimeEventStreaming/)
 
 ## Federal Reserve Bank
-1. [ETL Optimization – Federal Reserve Bank](.//FederalReserveBank/ETLOptimization_FedReserve/)
-2. [Database Performance & High Availability – Federal Reserve Bank](./FederalReserveBank/DatabasePerformance_FedReserve/)
+1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
+2. [Database Performance & High Availabilit](./FederalReserveBank/DatabasePerformance_FedReserve/)
