@@ -12,4 +12,4 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 
 ## Federal Reserve Bank
 1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
-2. [Database Performance & High Availabilit](./FederalReserveBank/DatabasePerformance_FedReserve/)
+2. [Database Performance & High Availability](./FederalReserveBank/DatabasePerformance_FedReserve/)
