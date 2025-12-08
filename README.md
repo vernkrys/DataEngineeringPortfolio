@@ -12,7 +12,6 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 5. [Enterprise Data Re-encryption](./EnterpriseDataReencryption/)
 6. [Analytics Platform](./RingAnalyticsPlatform/)
 7. [Enterprise Data Governance Platform](./DataGovernancePlatform/)
-8. [Real-Time Event Streaming](./RealTimeEventStreaming/)
 
 ## Federal Reserve Bank
 1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
