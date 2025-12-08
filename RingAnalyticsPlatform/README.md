@@ -1,4 +1,4 @@
-# Ring Analytics Platform – Amazon
+# Analytics Platform – Amazon
 
 ## Problem / Challenge
 Build a scalable analytics platform capable of processing **millions of daily interactions** with hourly updates.
