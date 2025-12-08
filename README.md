@@ -8,7 +8,7 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 1. [Shopify E-commerce Data Pipeline](./ShopifyDataPipeline/)
 2. [Contact Center Analytics Batch Pipeline](./AnalyticsBatchPipeline/)
 3. [Enterprise Data Re-encryption](./EnterpriseDataReencryption/)
-4. [Ring Analytics Platform](./RingAnalyticsPlatform/)
+4. [Analytics Platform](./RingAnalyticsPlatform/)
 5. [Enterprise Data Governance Platform](./DataGovernancePlatform/)
 6. [Real-Time Event Streaming](./RealTimeEventStreaming/)
 
