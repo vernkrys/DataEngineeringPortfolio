@@ -9,7 +9,7 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 2. [Contact Center Analytics Batch Pipeline](./AnalyticsBatchPipeline/)
 3. [Salesforce Customer Support Data Pipeline](./SalesforceDataPipeline/)
 4. [Multi-Retailer Supply Chain Data Pipeline](./Multi-RetailerDataPipeline/)
-5. [Virtual Assistant Analytics Data Pipeline](./ZoomVirtualAssistantDataPipeline/)
+5. [Zoom Virtual Assistant Analytics Data Pipeline](./ZoomVirtualAssistantDataPipeline/)
 
 ## Federal Reserve Bank
 1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
