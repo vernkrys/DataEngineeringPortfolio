@@ -9,6 +9,7 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 2. [Ring Analytics Platform](./RingAnalyticsPlatform/)
 3. [Enterprise Data Governance Platform](./DataGovernancePlatform/)
 4. [Real-Time Event Streaming](./RealTimeEventStreaming/)
+5. [Shopify E-commerce Data Pipeline](./ShopifyPipeline/)
 
 ## Federal Reserve Bank
 1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
