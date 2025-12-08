@@ -1,5 +1,9 @@
 # Enterprise-scale batch data workflow system for multi-region e-commerce analytics
 
+**Role:** Senior Data Engineer  
+
+---
+
 ## 📋 Overview
 
 Built and maintained a comprehensive batch data workflow system using Apache Airflow to extract, transform, and load e-commerce data from multiple Shopify storefronts across different geographic regions into a centralized data warehouse. This pipeline became a critical component of the company's global e-commerce analytics infrastructure, supporting business intelligence and analytics operations.
