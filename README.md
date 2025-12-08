@@ -8,10 +8,11 @@ Welcome! This portfolio showcases my hands-on experience in data engineering, cl
 1. [Shopify E-commerce Data Pipeline](./ShopifyDataPipeline/)
 2. [Contact Center Analytics Batch Pipeline](./AnalyticsBatchPipeline/)
 3. [Salesforce Customer Support Data Pipeline](./SalesforceDataPipeline/)
-4. [Enterprise Data Re-encryption](./EnterpriseDataReencryption/)
-5. [Analytics Platform](./RingAnalyticsPlatform/)
-6. [Enterprise Data Governance Platform](./DataGovernancePlatform/)
-7. [Real-Time Event Streaming](./RealTimeEventStreaming/)
+4. [Multi-Retailer Supply Chain Data Pipeline](./Multi-RetailerDataPipeline/)
+5. [Enterprise Data Re-encryption](./EnterpriseDataReencryption/)
+6. [Analytics Platform](./RingAnalyticsPlatform/)
+7. [Enterprise Data Governance Platform](./DataGovernancePlatform/)
+8. [Real-Time Event Streaming](./RealTimeEventStreaming/)
 
 ## Federal Reserve Bank
 1. [ETL Optimization](.//FederalReserveBank/ETLOptimization_FedReserve/)
