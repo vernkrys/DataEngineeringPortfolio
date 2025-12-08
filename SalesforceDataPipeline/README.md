@@ -6,8 +6,7 @@ Built and maintained a complex batch data orchestration pipeline that processes 
 
 **Technology Stack:** Apache Airflow, Python, AWS Redshift, AWS S3, PostgreSQL
 
-**Role:** Data Engineer  
-**Timeline:** 2024-2025
+**Role:** Senior Data Engineer  
 
 ---
 
