@@ -4,6 +4,10 @@
 
 Built and maintained a production-scale batch data orchestration system for a contact center analytics platform, processing millions of customer interaction events daily. The system leveraged Apache Airflow to orchestrate distributed PySpark jobs on AWS EMR, transforming raw JSON event streams into structured analytical datasets for business intelligence reporting.
 
+**Role:** Senior Data Engineer  
+
+---
+
 ## Architecture
 
 ### Technology Stack
